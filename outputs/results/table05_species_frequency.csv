@@ -1,0 +1,84 @@
+species,name_sci,status,status_group,records,individuals,visits_detected,pct_visits,years_detected
+Sucrier à ventre jaune,Coereba flaveola martinicana,Native,Native,10880,29639.0,1416,99.7,12
+Sporophile rougegorge,Loxigilla n. noctis,Endemic (Lesser Antilles),Endemic,9168,19829.0,1400,98.6,12
+Elénie siffleuse,Elaenia m. martinica,Native,Native,9658,20285.0,1356,95.5,12
+Tyran gris,Tyrannus dominicensis vorax,Native,Native,7324,13217.0,1352,95.2,12
+Merle à lunettes,Turdus n. nudigenis,Exotic (natural coloniser),Exotic,5707,9071.0,1326,93.4,12
+Quiscale merle,Quiscalus lugubris guadeloupensis,Native,Native,8662,37180.0,1313,92.5,12
+Tourterelle à queue carrée,Zenaida a. aurita,Native,Native,8811,19923.0,1297,91.3,12
+Saltator gros-bec,Saltator a. albicollis,Native,Native,6767,10347.0,1260,88.7,12
+Sporophile cici,Melanospiza bicolor,Native,Native,6351,14234.0,1227,86.4,12
+Viréo à moustaches,Vireo altiloquus barbadensis,Native,Native,5843,9223.0,1187,83.6,12
+Colibri huppé,Orthorhyncus cristatus exilis,Endemic (Lesser Antilles),Endemic,2818,3540.0,1102,77.6,12
+Paruline jaune,Setophaga petechia ruficapilla,Native,Native,3123,3862.0,992,69.9,12
+Vacher luisant,Molothrus bonariensi minimus,Exotic (natural coloniser),Exotic,2712,4649.0,964,67.9,12
+Moqueur grivotte,Allenia fusca hypenema,Endemic (Lesser Antilles),Endemic,2345,2918.0,931,65.6,12
+Moqueur des savanes,Mimus gilvus antillarum,Native,Native,2912,4262.0,930,65.5,12
+Colibri madère,Eulampis jugularis,Endemic (Lesser Antilles),Endemic,1714,2502.0,672,47.3,12
+Colombe à queue noire,Columbina passerina trochila,Native,Native,1672,2255.0,634,44.6,12
+Héron garde-bœuf,Bubulcus i. ibis,Exotic (natural coloniser),Exotic,1792,4086.0,630,44.4,12
+Coulicou manioc,Coccyzus minor,Native,Native,908,977.0,597,42.0,12
+Petite Buse,Buteo platypterus rivierei,Native,Native,819,841.0,593,41.8,12
+Tyran janeau,Myiarchus oberi sclateri,Endemic (Lesser Antilles),Endemic,1014,1231.0,483,34.0,12
+Colibri falle-vert,Eulampis h. holosericeus,Endemic (Lesser Antilles),Endemic,677,801.0,447,31.5,12
+Tourterelle turque,Streptopelia decaocto,Exotic (human-introduced),Exotic,1127,3407.0,403,28.4,12
+Héron vert,Butorides v. virescens,Native,Native,704,868.0,355,25.0,12
+Colombe rouviolette,Geotrygon montana martinica,Native,Native,738,845.0,355,25.0,12
+Astrild ondulé,Estrilda astrild,Exotic (human-introduced),Exotic,790,4047.0,354,24.9,12
+Sporophile curio,Sporophila angolensis torrida,Exotic (human-introduced),Exotic,523,636.0,272,19.2,12
+Solitaire siffleur,Myadestes g. genibarbis,Endemic (Lesser Antilles),Endemic,799,1119.0,202,14.2,12
+Martinet chiquesol,Chaetura martinica,Endemic (Lesser Antilles),Endemic,388,994.0,200,14.1,12
+Frégate superbe,Fregata magnificens,Seabird,Seabird,292,440.0,196,13.8,12
+Gallinule d'Amérique,Gallinula galeata cerceris,Native,Native,393,574.0,193,13.6,12
+Trembleur gris,Cinclocerthia g. gutturalis,Endemic (Lesser Antilles),Endemic,438,538.0,189,13.3,12
+Oriole de Martinique,Icterus bonana,Endemic (Martinique),Endemic,232,288.0,187,13.2,12
+Pigeon biset domestique,Columba livia,Exotic (human-introduced),Exotic,436,4603.0,151,10.6,12
+Hirondelle à ventre blanc,Progne dominicensis,Migrant,Migrant,275,880.0,151,10.6,12
+Bihoreau violacé,Nycticorax nycticorax hoactli,Migrant,Migrant,213,214.0,149,10.5,12
+Capucin à tête blanche,Lonchura maja,Exotic (human-introduced),Exotic,223,868.0,131,9.2,12
+Aigrette neigeuse,Egretta thula,Migrant,Migrant,213,368.0,110,7.7,12
+Moucherolle gobemouche,Contopus latirostris brunnei capillus,Endemic (Lesser Antilles),Endemic,144,166.0,87,6.1,12
+Moqueur gorge blanche,Ramphocinclus brachyurus,Endemic (Martinique),Endemic,199,321.0,80,5.6,12
+Chevalier grivelé,Actitis macularia,Migrant,Migrant,102,128.0,77,5.4,12
+Moqueur corossol,Margarops fuscatus densirostris,Endemic (Lesser Antilles),Endemic,99,114.0,67,4.7,12
+Organiste louis-d'or,Euphonia musica flavifrons,Native,Native,114,144.0,65,4.6,12
+Amazone aourou,Amazona amazonica,Exotic (human-introduced),Exotic,186,590.0,58,4.1,12
+Astrild à joues orange,Estrilda melpoda,Exotic (human-introduced),Exotic,52,189.0,47,3.3,12
+Pélican brun,Pelecanus occidentalis,Seabird,Seabird,52,62.0,43,3.0,10
+Tisserin gendarme,Ploceus cucullatus,Exotic (human-introduced),Exotic,76,395.0,40,2.8,12
+Sterne de Dougall,Sterna d. dougallii,Seabird,Seabird,63,903.0,34,2.4,11
+Colibri à tête bleue,Cyanophaia bicolor,Endemic (Lesser Antilles),Endemic,38,45.0,31,2.2,11
+Crécerelle d'Amérique,Falco sparverius dominicensis,Native,Native,38,42.0,29,2.0,11
+Capucin à tête noire,Lonchura atricapilla,Exotic (human-introduced),Exotic,41,216.0,27,1.9,10
+Balbuzard pêcheur,Pandion haliaetus ridgwayi,Migrant,Migrant,25,23.0,25,1.8,11
+Euplecte franciscain,Euplectes franciscanus,Exotic (human-introduced),Exotic,46,321.0,25,1.8,11
+Martinet sombre,Cypseloides n. niger,Migrant,Migrant,33,160.0,24,1.7,7
+Perruche à collier,Psittacula krameri,Exotic (human-introduced),Exotic,123,455.0,21,1.5,12
+Hirondelle rustique,Hirundo r. rustica,Migrant,Migrant,32,287.0,20,1.4,9
+Grande aigrette,Ardea alba egretta,Migrant,Migrant,19,13.0,18,1.3,10
+Gravelot semipalmé,Charadrius semipalmatus,Migrant,Migrant,17,109.0,17,1.2,10
+Bihoreau gris,Nyctanassa violacea bancrofti,Native,Native,21,24.0,15,1.1,10
+Sterne fuligineuse,Onychoprion fuscatus,Seabird,Seabird,27,1196.0,14,1.0,8
+Mouette atricilla,Leucophaeus atricilla,Seabird,Seabird,14,42.0,11,0.8,9
+Sterne royale,Thalasseus maximus,Seabird,Seabird,11,8.0,11,0.8,7
+Canard musqué,Cairina moschata (domestique),Exotic (human-introduced),Exotic,13,22.0,11,0.8,6
+Tournepierre à collier,Arenariai nterpres,Migrant,Migrant,14,146.0,11,0.8,9
+Sterne bridée,Onychoprion anaethetus,Seabird,Seabird,10,78.0,10,0.7,8
+Aigrette bleue,Egretta caerulea,Migrant,Migrant,10,9.0,10,0.7,5
+Bécasseau minuscule,Calidris minutilla,Migrant,Migrant,12,29.0,7,0.5,6
+Chevalier solitaire,Tringa solitaria,Migrant,Migrant,10,12.0,7,0.5,7
+Bécasseau semipalmé,Calidris pusilla,Migrant,Migrant,6,115.0,5,0.4,3
+Astrild cendré,Estrilda troglodytes,Exotic (human-introduced),Exotic,7,89.0,5,0.4,3
+Pigeon à cou rouge,Patagioenas squamosa,Migrant,Migrant,6,8.0,4,0.3,3
+Faucon émerillon,Falco columbarius,Migrant,Migrant,4,3.0,4,0.3,3
+Noddi brun,Anous stolidus,Seabird,Seabird,3,54.0,3,0.2,3
+Huîtrier d'Amérique,Haematopus palliatus,Migrant,Migrant,3,3.0,3,0.2,3
+Chevalier criard,Tringa melanoleuca,Migrant,Migrant,3,3.0,3,0.2,2
+Chevalier pattes jaunes,Tringa flavipes,Migrant,Migrant,3,6.0,3,0.2,3
+Martin pêcheur d'Amérique,Megaceryle alcyon,Migrant,Migrant,2,1.0,2,0.1,2
+Grande héron,Ardea herodias occidentalis,Migrant,Migrant,2,2.0,2,0.1,2
+Coq bankiva,Gallus gallus,Exotic (human-introduced),Exotic,2,2.0,2,0.1,2
+Colombe à croissant,Geotrygon mystacea,Endemic (Lesser Antilles),Endemic,2,2.0,2,0.1,2
+Bengali rouge,Amandava amandava,Exotic (human-introduced),Exotic,1,2.0,1,0.1,1
+Tourterelle oreillarde,Zenaida auriculata stenura,Exotic (natural coloniser),Exotic,1,2.0,1,0.1,1
+Aigrette tricolore,Egretta tricolor ruficollis,Migrant,Migrant,1,1.0,1,0.1,1

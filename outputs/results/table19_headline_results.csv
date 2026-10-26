@@ -1,0 +1,10 @@
+indicator,quantity,estimate [95% CI],uncertainty method
+Effort,visits per year,78 (2014) → 129 (2025),"census, no CI"
+Abundance index,"raw base-100, 2022 and 2025","134 [121, 150]; 112 [101, 124]",cluster bootstrap
+Abundance index,"adjusted (sites, conditions, observers), 2025","113 [104, 122]",cluster bootstrap
+Abundance trend,"M3 (no observers) → M4a (observer FE), % per year","+1.09 [+0.49, +1.66] → +0.74 [+0.24, +1.25]",cluster bootstrap
+Abundance trend,M4a on core panel / within 50 m / without 2014,"+0.49 [-0.07, +1.02] / +0.28 [-0.40, +0.91] / +0.30 [-0.23, +0.88]",cluster bootstrap
+Local richness,"species per visit, slope with observer FE","+0.034 sp/yr [-0.019, +0.085]",cluster bootstrap
+Island richness,"equal-effort (60 visits), slope","+0.13 sp/yr [-0.33, +0.59]",jackknife
+Composition,"exotic share, slope (core panel)","+0.45 pts/yr [+0.16, +0.74]",cluster bootstrap
+Species,"classes (34 species, estimator B)","stable: 11, uncertain: 10, moderate increase: 8, moderate decline: 5",cluster bootstrap

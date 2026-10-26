@@ -1,0 +1,16 @@
+# data (not redistributable)
+data/raw/*
+data/processed/
+!data/raw/.gitkeep
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

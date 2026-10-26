@@ -1,0 +1,27 @@
+step,issue,action,rows_affected
+raw,rows in observation sheet,-,114495
+transect names,case/whitespace/spelling variants of the same transect,mapped to GPS-MILIEU spelling,3296
+observer names,whitespace / word-order / case variants of the same person,unified on a token key,10704
+department code,values 961-974 (Excel drag-fill artefact),ignored (column not used; all transects are in Martinique),66
+weather: clouds,out-of-range codes (0) or blank (2),set to missing,2
+weather: rain,out-of-range codes (0) or blank (1),set to missing,1
+weather: wind,out-of-range codes (6) or blank (17),set to missing,23
+weather: visibility,out-of-range codes (2) or blank (1),set to missing,3
+start time,missing or unparseable start time,left missing,0
+duplicates,25 visits entered twice (>= 40% of rows duplicated),second copy removed,2146
+duplicates,isolated exact duplicate rows inside otherwise normal visits,"kept, flagged for sensitivity analysis",97
+visit dates,dates incremented row by row within one visit (Excel drag-fill),set to first date of the visit,54
+visit passage,passage label inconsistent with visit date (swapped or mislabelled),relabelled from the visit date,540
+visit dates,"fragment of a visit recorded on another day, complementary points",merged into the visit of the same passage,96
+visit dates,fragment on another day re-surveying points already counted,removed (keeps 1 count per point per visit),38
+visit dates,visit split in two halves over two days,dated to its first day,35
+counts,"non-numeric entries in count cells (e.g. '1#', ' ')",cleaned ('#' stripped) or treated as 0,1
+counts,workbook total columns inconsistent with distance cells,counts recomputed from the cells,71
+counts,rows with only the total column filled in,workbook total used,4
+counts,non-integer counts,kept as recorded,0
+remarks,remarks indicating mentoring / training,flag 'mentored',8463
+remarks,remarks indicating the count was done by someone else,flag 'done_by_other',805
+species,records not identified to species (genus/family level),"kept for abundance, excluded from richness/species analyses",1161
+species,'RAS' (nothing to report) or blank species rows,"kept as empty point visits for effort, not as records",2
+final,clean rows (incl. empty point visits),-,112311
+final,clean bird records,-,112309

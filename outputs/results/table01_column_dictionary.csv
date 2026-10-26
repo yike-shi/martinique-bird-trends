@@ -1,0 +1,27 @@
+english_name,french_header,meaning
+observer_raw,Nom observateur,observer name (free text)
+dept,code département,French department code (972 = Martinique)
+transect_raw,Nom transect,transect (site) name
+date_raw,date,visit date
+passage_raw,"1er, 2e ou 3e passage",visit number within the year (1 or 2)
+clouds,nuages,"cloud cover, 1-3 (0-33 / 33-66 / 66-100 %)"
+rain,pluie,"rain, 1-3 (none / drizzle / showers)"
+wind,vent,"wind, 1-3 (none / light / moderate-strong)"
+visibility,visibilité,"visibility, 1-3 (good / moderate / poor)"
+point,N° point,point number along the transect (1-10)
+start_time,heure début,start time of the 5-min point count
+species_raw,ESPECE,species (French common name)
+aud_lt25,distances de contact / < 25m / Auditif,"individuals heard, band lt25"
+vis_lt25,distances de contact / < 25m / Visuel,"individuals seen, band lt25"
+aud_25_50,distances de contact / <50m / Auditif,"individuals heard, band 25_50"
+vis_25_50,distances de contact / <50m / Visuel,"individuals seen, band 25_50"
+aud_50_100,distances de contact / <100m / Auditif,"individuals heard, band 50_100"
+vis_50_100,distances de contact / <100m / Visuel,"individuals seen, band 50_100"
+aud_gt100,distances de contact / > 100m / Auditif,"individuals heard, band gt100"
+vis_gt100,distances de contact / > 100m / Visuel,"individuals seen, band gt100"
+flight,vol (fly-overs),individuals flying over (not using the site)
+xls_total_aud,totaux / Auditif,"workbook total (formula) - NOT used, recomputed from cells"
+xls_total_vis,"totaux / Visuel (sans ""Vol"")","workbook total (formula) - NOT used, recomputed from cells"
+xls_total_av,"totaux / A+V (sans ""Vol"")","workbook total (formula) - NOT used, recomputed from cells"
+xls_total_av_flight,"totaux / A+V (avec ""Vol"")","workbook total (formula) - NOT used, recomputed from cells"
+note,(unnamed free-text remarks),"free-text remark (mentoring, habitat notes)"
